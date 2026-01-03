@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Torch / ML cuccok (ajánlott)
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
